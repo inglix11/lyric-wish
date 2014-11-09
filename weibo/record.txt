@@ -1,0 +1,4 @@
+https://api.weibo.com/oauth2/authorize?redirect_uri=https%3A//api.weibo.com/oauth2/default.html&response_type=code&client_id=3011307840
+input the code: c14a77dde731586cda17856c1b55f2bb
+c14a77dde731586cda17856c1b55f2bb
+(u'2.00Iu4cUDSjInRDb01f2281c90yylq9', 1522454992)
